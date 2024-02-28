@@ -12,8 +12,10 @@
 ```
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=𝐈𝐧𝐬𝐭𝐚𝐥𝐥+&fontAlign=80&fontAlignY=40&color=gradient)
 ```
-Pkg Upgrade
-Pkg Upgrade
+apt update 
+apt Upgrade
+pkg install git 
+
 Pkg install python
 Pkg install python3
 github.com/developersamir/samirsmsbomb
