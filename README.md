@@ -17,7 +17,7 @@ apt Upgrade
 pkg install git 
 Pkg install python
 Pkg install python3
-git clone github.com/developersamir/samirsmsbomb
+git clone github.com/developersamir/SamirSmsBomb
 cd SamirSmsBomb
 ls
 python samirbomber.py
