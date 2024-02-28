@@ -15,7 +15,6 @@
 apt update 
 apt Upgrade
 pkg install git 
-
 Pkg install python
 Pkg install python3
 github.com/developersamir/samirsmsbomb
